@@ -5,7 +5,7 @@ SEE /help For My Features"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT <a href="https://tx.me/Hackintush">CipherX</a>"
+    UPGRADE_TEXT = "CONTACTM [CɪᴘʜᴇʀX](https://t.me/Hackintush" 
     DOWNLOAD_START = "Give Me Some Time (〒﹏〒)"
     UPLOAD_START = "Yeah, Completed Downloading(;ŏ﹏ŏ)"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}"
