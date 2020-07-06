@@ -1,8 +1,6 @@
 class Translation(object):
     START_TEXT = """Hey! I'm Telegram Renaming BOT Programmed By <a href="https://tx.me/Hackintush">CɪᴘʜᴇʀX</a>
 <b>Please send me any Telegram file and reply to that file with /rename New Name.Format</b> 
-SEE /help For My Features 
-
 See /help for more Features.."""
     RENAME_403_ERR = "There Is Some Error With The File" 
     ABS_TEXT = " Please don't be selfish."
